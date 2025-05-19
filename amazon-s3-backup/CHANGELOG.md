@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.2
+- Fix awscli install
+
 ## 1.2.1
 - Remove Storage_class
 
