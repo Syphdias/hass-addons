@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.3
+- Fix missing permissions on finish script
+
 ## 1.2.2
 - Fix awscli install
 
